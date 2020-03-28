@@ -9,6 +9,8 @@ Nesse repositório, cada aula possui:
 
 # Sumário do Curso (Atualizando a cada aula completada)
 
+Nas aulas anteriores foram explicadas coisas básicas como: História do Java, diferença para algumas outras linguagens, funcionamento da JVM, instalação do JDK e NetBeans. Por isso os arquivos começam em "Aula 04" que é quando começamos a desenvolver os primeiros programas!
+
 | Aulas | Conteúdo |
 | ------ | ------ |
 | Aula 01 | História do Java |
