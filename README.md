@@ -3,7 +3,7 @@
 Link da Playlist Completa:
 https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
 
-Nesse repositório, cada aula possui sua própria branch contendo:
+Nesse repositório, cada aula possui:
 - Um PDF com algumas anotações importantes vistas na aula;
 - Exercícios feitos na aula + Exercícios Desafios (com resolução somente na próxima semana).
 
