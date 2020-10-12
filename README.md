@@ -1,7 +1,7 @@
-# Curso Java Básico - Curso em Vídeo (Youtube)
+# Curso Java Completo 2020 POO + Projeto - Prof. Nélio Alves
 
-Link da Playlist Completa:
-https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
+Link do curso:
+https://www.udemy.com/course/java-curso-completo/
 
 Nesse repositório, cada aula possui:
 - Um PDF com algumas anotações importantes vistas na aula;
