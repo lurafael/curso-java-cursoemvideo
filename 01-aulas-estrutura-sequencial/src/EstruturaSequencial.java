@@ -52,13 +52,13 @@ public class EstruturaSequencial {
 		a = 6f; 
 		b = 6.0; 
 		
-//Casting 
+//Fazendo Casting 
 		int c, d;
 		double resultado;
 		c = 5;
 		d = 2;
 		
-		resultado = (double) c / d; // 2.5
+		resultado = (double) c / d; // 2.5 
 
 		System.out.println(resultado); 
 	}
