@@ -1,4 +1,5 @@
 import java.util.Locale;
+import java.util.Scanner;
 
 public class EstruturaSequencial {
 
@@ -61,5 +62,36 @@ public class EstruturaSequencial {
 		resultado = (double) c / d; // 2.5 
 
 		System.out.println(resultado); 
+		
+//Entrada de dados
+		//Precisamos importar o Scanner
+		//import java.util.Scanner; 
+		
+		Scanner sc = new Scanner(System.in); //Aloca memória necessária para o sc por causa do new
+		
+		String firstName, lastName;
+		
+		firstName = sc.next(); //Permite que eu digite uma palavra e atribua ao firstName
+		lastName = sc.next();
+		
+		System.out.println("O nome digitado foi: " + firstName + " " + lastName); //sysout + Ctrl + espaço cria o System.out.println();
+		//ou
+		System.out.printf("O nome digitado foi: %s %s", firstName, lastName);
+		
+		sc.close(); //Libera a memória
+		
+		//.next -> String
+		//.nextLine -> String até a quebra de linha
+		//.nextInt -> inteiro
+		//.nextDouble -> double
+		//.next().charAt(index) -> Pega a letra passada ao index
+		
+//Funções Matemáticas
+		
+		//Alguns exemplos
+		//Math.sqrt(x) -> Raíz quadrada
+		//Math.pow(x, y) -> Valor de x elevado a y
+		//Math.abs(x) -> Valor absoluto de x 		*Tirar o valor negativo caso exista
+		
 	}
 }
