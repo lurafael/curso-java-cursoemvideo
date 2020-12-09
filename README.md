@@ -17,5 +17,10 @@
 - [x] 1.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/java-poo/blob/master/01-aulas-estrutura-sequencial/src/EstruturaSequencial.java) :heavy_check_mark:
 - [x] 1.2 - Exercícios [Clique aqui](https://github.com/lurafael/java-poo/tree/master/01-exercicios-estrutura-sequencial/src) :heavy_check_mark:
 
+## 2 - Estrutura Condicional
+
+- [x] 1.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/java-poo/blob/master/02-aulas-estrutura-condicional/src/EstruturaCondicional.java) :heavy_check_mark:
+- [x] 1.2 - Exercícios [Clique aqui](https://github.com/lurafael/java-poo/tree/master/02-exercicios-estrutura-condicional/src) :heavy_check_mark:
+
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
